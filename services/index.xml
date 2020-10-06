@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on GID LLC </title>
-    <link>/services/</link>
+    <link>http://treo1313.github.io/gulfid/services/</link>
     <description>Recent content in Services on GID LLC </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="http://treo1313.github.io/gulfid/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Earthing Design</title>
-      <link>/services/earthing/</link>
+      <link>http://treo1313.github.io/gulfid/services/earthing/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/services/earthing/</guid>
+      <guid>http://treo1313.github.io/gulfid/services/earthing/</guid>
       <description>We design earthing solutions for your specific needs.</description>
     </item>
     
     <item>
       <title>LPS Design</title>
-      <link>/services/lps/</link>
+      <link>http://treo1313.github.io/gulfid/services/lps/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/services/lps/</guid>
+      <guid>http://treo1313.github.io/gulfid/services/lps/</guid>
       <description>Lorem markdownum Achaica revolutaque amore, penitus puppes nec furit, clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem Cretaeas enim ipse pectora excusat candentibus fertur? Furtiva Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.</description>
     </item>
     
     <item>
       <title>Safety Audits</title>
-      <link>/services/safety/</link>
+      <link>http://treo1313.github.io/gulfid/services/safety/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>/services/safety/</guid>
+      <guid>http://treo1313.github.io/gulfid/services/safety/</guid>
       <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
     </item>
     
